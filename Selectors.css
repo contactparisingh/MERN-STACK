@@ -1,0 +1,52 @@
+body {
+    background-color: orange;
+}
+
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color: lime;
+}
+
+#bglime span:first-of-type {
+    color: red;
+}
+
+p {
+    color: white;
+}
+
+#para {
+    color: green;
+}
+
+#para span {
+    color: black;
+    font-size: 25px;
+}
+
+
+a {
+    color: blue;
+    font-weight: bold;
+}
+
+
+a[href*="google"] {
+    background-color: lime;
+}
+
+a[href*="youtube"] {
+    background-color: blue;
+    color: white;
+}
+
+#li2{
+    color:aqua;
+}
+
+#li3{
+    color:blueviolet;
+}
